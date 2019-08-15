@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">outextra</string>
+
+    <string name="dial_number"/>
+    <string name="move_with_result"/>
+    <string name="result_from_activity">Hasil:</string>
+    <string name="choose_number"/>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+
+
+</resources>
